@@ -11,15 +11,15 @@ a {
     text-decoration: none;
 }
 
-#history {
-    margin-top: 20px;
+#education, #history {
+    margin: 35px 0;
 }
 
-#history h2 {
+#education h2, #history h2 {
     border-bottom: solid 1px black;
     padding-bottom: 5px;
 }
 
-#history .job span {
+#education .course span, #history .job span {
     font-weight: bolder;
 }
