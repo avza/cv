@@ -1,0 +1,25 @@
+body {
+    font-family: 'Muli', sans-serif;
+    margin: 10px 50px;
+}
+
+#header {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#history {
+    margin-top: 20px;
+}
+
+#history h2 {
+    border-bottom: solid 1px black;
+    padding-bottom: 5px;
+}
+
+#history .job span {
+    font-weight: bolder;
+}
