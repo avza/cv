@@ -4,4 +4,4 @@ Alisson's cv
 
 ## Link
 
-# [online](https://curriculum-vitae.avs2.now.sh/)
+# [online](https://cv.avza.now.sh/)
